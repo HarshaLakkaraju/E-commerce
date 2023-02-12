@@ -1,0 +1,24 @@
+
+.processOrderMainContainer{
+    display: flex;
+    flex-direction:row;
+    justify-content:space-between;
+    background-color: blueviolet;
+}
+
+.processingDetails{
+    background-color: aqua;
+    width:600px;
+}
+
+.splitTwoDivsLine{
+    width:1px;
+    height: 95.8vh;
+    background-color: gray;
+    margin:5px;
+}
+
+.processOrderDelivered{
+    background-color: bisque;
+    width:400px;
+}
